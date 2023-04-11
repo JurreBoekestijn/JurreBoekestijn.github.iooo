@@ -1,0 +1,161 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Portofolio</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on Portofolio</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Game development</title>
+            <link>localhost/posts/game-dev/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/game-dev/</guid>
+            <description>Een tropisch eiland *Over die map die ik gemaakt heb die nog niet af is</description>
+            <content type="html"><![CDATA[<h2 id="een-tropisch-eiland">Een tropisch eiland</h2>
+<p>*Over die map die ik gemaakt heb die nog niet af is</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Mechatronica</title>
+            <link>localhost/posts/megatronicha/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/megatronicha/</guid>
+            <description>Werken met tuinbouw lampen *Soldeer dingen
+Het mieren nest *over het mieren nest
+fusion
+3D printen
+arduino</description>
+            <content type="html"><![CDATA[<h2 id="werken-met-tuinbouw-lampen">Werken met tuinbouw lampen</h2>
+<p>*Soldeer dingen</p>
+<h2 id="het-mieren-nest">Het mieren nest</h2>
+<p>*over het mieren nest</p>
+<ul>
+<li>
+<p>fusion</p>
+</li>
+<li>
+<p>3D printen</p>
+</li>
+<li>
+<p>arduino</p>
+</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Multimediadesign</title>
+            <link>localhost/posts/multimedia-disign/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/multimedia-disign/</guid>
+            <description>gemaakt door mij: bokobling(BOTW)
+Megaman 3D model</description>
+            <content type="html"><![CDATA[<h2 id="gemaakt-door-mij">gemaakt door mij:</h2>
+<ul>
+<li>
+<p>bokobling(BOTW)</p>
+</li>
+<li>
+<p>Megaman 3D model</p>
+</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Muziek</title>
+            <link>localhost/posts/muziek/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/muziek/</guid>
+            <description>FL Studio *mijn tracks enzo
+Drummen *Drumdingen
+trompet *Trompet dingen</description>
+            <content type="html"><![CDATA[<h2 id="fl-studio">FL Studio</h2>
+<p>*mijn tracks enzo</p>
+<h2 id="drummen">Drummen</h2>
+<p>*Drumdingen</p>
+<h2 id="trompet">trompet</h2>
+<p>*Trompet dingen</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Over Mij</title>
+            <link>localhost/posts/over-mij/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/over-mij/</guid>
+            <description>Middelbare school *Middelbare school dingen
+Digibende *Digibende dingen</description>
+            <content type="html"><![CDATA[<h2 id="middelbare-school">Middelbare school</h2>
+<p>*Middelbare school dingen</p>
+<h2 id="digibende">Digibende</h2>
+<p>*Digibende dingen</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Programmeren</title>
+            <link>localhost/posts/programeren/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/programeren/</guid>
+            <description>Mijn projecten Even inkomen *Oefenopdracht dingen
+Monsterfight *Monsterfight dingen
+Blackjack *blackjack dingen
+Deze website *over hoe ik dit gemaakt heb</description>
+            <content type="html"><![CDATA[<h2 id="mijn-projecten">Mijn projecten</h2>
+<ul>
+<li>Even inkomen</li>
+</ul>
+<p>*Oefenopdracht dingen</p>
+<ul>
+<li>Monsterfight</li>
+</ul>
+<p>*Monsterfight dingen</p>
+<ul>
+<li>Blackjack</li>
+</ul>
+<p>*blackjack dingen</p>
+<ul>
+<li>Deze website</li>
+</ul>
+<p>*over hoe ik dit gemaakt heb</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Sport</title>
+            <link>localhost/posts/sport/</link>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/sport/</guid>
+            <description>Mijn sportverleden Volleybal
+Judo
+Tennis</description>
+            <content type="html"><![CDATA[<h2 id="mijn-sportverleden">Mijn sportverleden</h2>
+<ul>
+<li>
+<p>Volleybal</p>
+</li>
+<li>
+<p>Judo</p>
+</li>
+<li>
+<p>Tennis</p>
+</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

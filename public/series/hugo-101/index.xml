@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo 101 on Portofolio</title>
+    <link>localhost/series/hugo-101/</link>
+    <description>Recent content in Hugo 101 on Portofolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="localhost/series/hugo-101/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game development</title>
+      <link>localhost/posts/game-dev/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/game-dev/</guid>
+      <description>Een tropisch eiland *Over die map die ik gemaakt heb die nog niet af is</description>
+    </item>
+    
+    <item>
+      <title>Mechatronica</title>
+      <link>localhost/posts/megatronicha/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/megatronicha/</guid>
+      <description>Werken met tuinbouw lampen *Soldeer dingen
+Het mieren nest *over het mieren nest
+fusion
+3D printen
+arduino</description>
+    </item>
+    
+    <item>
+      <title>Multimediadesign</title>
+      <link>localhost/posts/multimedia-disign/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/multimedia-disign/</guid>
+      <description>gemaakt door mij: bokobling(BOTW)
+Megaman 3D model</description>
+    </item>
+    
+    <item>
+      <title>Muziek</title>
+      <link>localhost/posts/muziek/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/muziek/</guid>
+      <description>FL Studio *mijn tracks enzo
+Drummen *Drumdingen
+trompet *Trompet dingen</description>
+    </item>
+    
+    <item>
+      <title>Over Mij</title>
+      <link>localhost/posts/over-mij/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/over-mij/</guid>
+      <description>Middelbare school *Middelbare school dingen
+Digibende *Digibende dingen</description>
+    </item>
+    
+    <item>
+      <title>Programmeren</title>
+      <link>localhost/posts/programeren/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/programeren/</guid>
+      <description>Mijn projecten Even inkomen *Oefenopdracht dingen
+Monsterfight *Monsterfight dingen
+Blackjack *blackjack dingen
+Deze website *over hoe ik dit gemaakt heb</description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>localhost/posts/sport/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/sport/</guid>
+      <description>Mijn sportverleden Volleybal
+Judo
+Tennis</description>
+    </item>
+    
+  </channel>
+</rss>
